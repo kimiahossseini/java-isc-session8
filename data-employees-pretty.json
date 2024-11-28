@@ -1,0 +1,28 @@
+[ {
+  "id" : "100",
+  "firstName" : "Steven",
+  "lastName" : "King",
+  "email" : "steven.king@sqltutorial.org",
+  "salary" : "24000.00",
+  "departmentt" : {
+    "name" : "Executive"
+  }
+}, {
+  "id" : "101",
+  "firstName" : "Neena",
+  "lastName" : "Kochhar",
+  "email" : "neena.kochhar@sqltutorial.org",
+  "salary" : "17000.00",
+  "departmentt" : {
+    "name" : "Executive"
+  }
+}, {
+  "id" : "102",
+  "firstName" : "Lex",
+  "lastName" : "De Haan",
+  "email" : "lex.de haan@sqltutorial.org",
+  "salary" : "17000.00",
+  "departmentt" : {
+    "name" : "Executive"
+  }
+} ]
